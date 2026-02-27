@@ -2,4 +2,4 @@
 
 Курс можно найти по ссылке -> [Stepik](https://stepik.org/course/201739/info)
 
-<img src="certificate.png" width="70%" />
+<img src="certificate.png" width="80%" />
